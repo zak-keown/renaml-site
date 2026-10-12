@@ -1,2 +1,3 @@
-# renaml-site
-Public help and privacy pages for RenaML, a local macOS file-renaming utility.
+# RenaML
+
+This site has moved to https://bubstack.dev/renaml/. Every page here redirects to its new address. Keep this repository and its GitHub Pages site, because shipped app versions link to these URLs.
